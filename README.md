@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# daniel-portfolio
 
-## Getting Started
+Legacy Next.js scaffold. This repository is **deprecated** and redirects all traffic to the canonical portfolio.
 
-First, run the development server:
+**Canonical site:** [gdanielschillinger.com](https://gdanielschillinger.com)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+The live portfolio is maintained on Vercel with source held locally. This repo exists only as a public redirect for anyone landing here from an old link — `app/page.tsx` performs a server-side redirect to the canonical domain.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Recruiters and collaborators should use the canonical site for current work — including the Sentient Sync Engine (eMerge Americas 2026), the Enterprise Incident Response Framework, and the Docker / Kubernetes container security substrate for the AGI architecture.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Related repositories
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [sentient-sync-engine](https://github.com/gdanielschillinger/sentient-sync-engine) — AGI collusion-detection demo, container and Kubernetes posture documented.
+- [enterprise-incident-response-framework](https://github.com/gdanielschillinger/enterprise-incident-response-framework) — Hybrid NIST SP 800-61 / SANS IRP.
+- [gdanielschillinger](https://github.com/gdanielschillinger/gdanielschillinger) — Python security log analysis tool.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## Contact
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**G. Daniel Schillinger** — AGI · Cybersecurity · Cryptography Architect
+Miami / Fort Lauderdale, FL · US & EU work-authorized
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Canonical site: [gdanielschillinger.com](https://gdanielschillinger.com)
+- Email: [gdaniel.schillinger@gmail.com](mailto:gdaniel.schillinger@gmail.com)
+- GitHub: [@gdanielschillinger](https://github.com/gdanielschillinger)
+
+Direct email is the channel of record. No LinkedIn, no aggregators.
